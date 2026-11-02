@@ -17,33 +17,33 @@ Linhas × Colunas: 4500x16
 
 Dicionário das colunas de entrada:
 
-  Age: idade do aluno
+  * Age: idade do aluno
   
-  Gender: Gênero do aluno
+  * Gender: Gênero do aluno
   
-  Academic_Level: Grau acadêmico do aluno
+  * Academic_Level: Grau acadêmico do aluno
   
-  Primary_Platform: Redes sociais mais utilizadas (Instagram, TikTok, YouTube, Snapchat, X, Reddit, LinkedIn)
+  * Primary_Platform: Redes sociais mais utilizadas (Instagram, TikTok, YouTube, Snapchat, X, Reddit, LinkedIn)
   
-  Daily_Usage_Hours: Tempo médio diário de uso ativo de telas em redes sociais, conforme relatado pelos próprios usuários (em horas)
+  * Daily_Usage_Hours: Tempo médio diário de uso ativo de telas em redes sociais, conforme relatado pelos próprios usuários (em horas)
  
-  Weekend_Extra_Hours: Aumento do tempo diário de uso de telas registrado nos fins de semana em comparação com os dias úteis
+  * Weekend_Extra_Hours: Aumento do tempo diário de uso de telas registrado nos fins de semana em comparação com os dias úteis
   
-  Device_Type: Dispositivo principal utilizado para o consumo de redes sociais (smartphone, laptop/PC, tablet)
+  * Device_Type: Dispositivo principal utilizado para o consumo de redes sociais (smartphone, laptop/PC, tablet)
   
-  Sleep_Duration_Hours: Duração média do sono
+  * Sleep_Duration_Hours: Duração média do sono
  
-  Sleep_Quality_Score: Avaliação subjetiva da qualidade do sono
+  * Sleep_Quality_Score: Avaliação subjetiva da qualidade do sono
   
-  Late_Night_Usage: Uso das redes durante a noite (SIM e NÃO)
+  * Late_Night_Usage: Uso das redes durante a noite (SIM e NÃO)
  
-  Social_Comparison_Frequency: Frequência com que o aluno realiza comparações sociai (Ás vezes, Frequêntimente, Nunca)
+  * Social_Comparison_Frequency: Frequência com que o aluno realiza comparações sociai (Ás vezes, Frequêntimente, Nunca)
   
-  Perceived_Stress_Score: Pontuação de estresse notado a apartir das respostas.
+  * Perceived_Stress_Score: Pontuação de estresse notado a apartir das respostas.
  
-  Mental_Health_Index: Índice de Saúde Mental
+  * Mental_Health_Index: Índice de Saúde Mental
   
-  Academic_Performance_GPA: Desempenho Acadêmico (GPA)
+  * Academic_Performance_GPA: Desempenho Acadêmico (GPA)
 
 ## Métrica e baseline
 
