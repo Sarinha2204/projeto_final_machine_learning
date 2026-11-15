@@ -6,8 +6,7 @@ Alunos: Adilson Valentim, Raiany Mendes, Sara Mendes e Yasmin Silva
 Dado as informações de uso de telas e saúde mental, prever o impacto das redes sociais ao longo da vida acadêmico para que os estudantes possam gerenciar seu tempo de tela com mais autonomia e mitigar os prejuízos à sua saúde mental.
 
 ## Tipo e alvo
-Classificação: Impacto Geral (Coluna Alvo)
-
+Classificação: Impacto Geral (Coluna Alvo: Benéfico, Neutro, Negativo)
 ## Dataset
 Link: https://www.kaggle.com/datasets/harishyadav0506/impact-of-social-media-on-life
 
@@ -17,6 +16,8 @@ Linhas × Colunas: 4500x16
 
 Dicionário das colunas de entrada:
 
+  * Student_ID : id do aluno
+  
   * Age: idade do aluno
   
   * Gender: Gênero do aluno
@@ -37,7 +38,7 @@ Dicionário das colunas de entrada:
   
   * Late_Night_Usage: Uso das redes durante a noite (SIM e NÃO)
  
-  * Social_Comparison_Frequency: Frequência com que o aluno realiza comparações sociai (Ás vezes, Frequêntimente, Nunca)
+  * Social_Comparison_Frequency: Frequência com que o aluno realiza comparações sociai (Ás vezes, Frequentimente, Nunca)
   
   * Perceived_Stress_Score: Pontuação de estresse notado a apartir das respostas.
  
