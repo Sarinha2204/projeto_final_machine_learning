@@ -61,3 +61,31 @@ Classificador da classe majoritária, que prevê a categoria de Impacto Geral ma
 * API: Recebe os dados preenchidos e utiliza o modelo de Machine Learning para prever o Impacto Geral das redes sociais.
 * Resposta: O usuário visualiza a categoria de impacto prevista pelo modelo, ajudando-o a compreender a relação entre seus hábitos digitais e sua vida acadêmica.
 
+## Ambiente
+
+crianco e ativando ambiente virtual:
+- python -m venv .venv
+
+- .venv\Scripts\activate
+
+- pip install pandas numpy matplotlib seaborn scikit-learn joblib ipykernel fastapi uvicorn streamlit
+
+(
+  *pandas e numpy*: manipulação dos dados.
+
+ *matplotlib e seaborn*: gráficos da Entrega 2.
+
+ *scikit-learn e joblib*: modelos, pipelines e exportação na Entrega 3.
+
+ *ipykernel:* faz o notebook funcionar no VS Code.
+
+ *fastapi, uvicorn e streamlit*: API e interface da Entrega 4.
+)
+
+criando o requeriments para que não precisem baixar novamente:
+
+- pip freeze > requirements.txt
+
+para instalar os requerimentos;
+
+- pip install -r requirements.txt
